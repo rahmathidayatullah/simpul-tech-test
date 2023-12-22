@@ -1,0 +1,222 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "FastVisa Support",
+      "email": "fastVisa_support@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Mary Hilda",
+      "email": "mary_hilda@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Obaidullah Amarkhil",
+      "email": "obaidullah_amarkhil@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "You",
+      "email": "you@gmail.com"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "title": "109220-Naturalization",
+      "date": "January 1,2021 19:10",
+      "name": "Cameron Phillips",
+      "description": "Please check this out!",
+      "list": [
+        {
+          "id": 9,
+          "name": "FastVisa Support",
+          "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+          "time": "19:00",
+          "date": "Today June 09, 2021",
+          "new": false
+        },
+        {
+          "id": 10,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 11,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 12,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 13,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 12, 2021",
+          "new": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+      "date": "02/06/2021 10:45",
+      "name": "Ellen",
+      "description": "Hey, please read.",
+      "list": [
+        {
+          "id": 9,
+          "name": "FastVisa Support",
+          "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+          "time": "19:00",
+          "date": "Today June 09, 2021",
+          "new": false
+        },
+        {
+          "id": 10,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 11,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 12,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 13,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 12, 2021",
+          "new": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "8405-Diana SALAZAR MUNGUIA",
+      "date": "01/06/2021 12:19",
+      "name": "Cameron Phillips",
+      "description": "I understand your initial concerns and thats very val, Elizabeth. But you ...",
+      "list": [
+        {
+          "id": 9,
+          "name": "FastVisa Support",
+          "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+          "time": "19:00",
+          "date": "Today June 09, 2021",
+          "new": false
+        },
+        {
+          "id": 10,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 11,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 12,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 13,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 12, 2021",
+          "new": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FastVisa Support",
+      "date": "01/06/2021 12:19",
+      "name": "",
+      "description": "Hey there! Welcome to your inbox.",
+      "list": [
+        {
+          "id": 9,
+          "name": "FastVisa Support",
+          "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+          "time": "19:00",
+          "date": "Today June 09, 2021",
+          "new": false
+        },
+        {
+          "id": 10,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 11,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 12,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 10, 2021",
+          "new": false
+        },
+        {
+          "id": 13,
+          "name": "You",
+          "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+          "time": "20:00",
+          "date": "Today June 12, 2021",
+          "new": true
+        }
+      ]
+    }
+  ]
+}
